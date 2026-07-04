@@ -60,16 +60,16 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natalia-Dias22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Dias22&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Natalia-Dias22&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+perfil&color=2EA3F7&style=flat" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=Natalia-Dias22&label=Visualizações+do+perfil&color=2EA3F7&style=flat" alt="Visitor Badge" />
 </p>
