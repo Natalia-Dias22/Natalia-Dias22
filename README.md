@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou a Natalia</h1>
+<h1 align="center"> Oi, eu sou a Natalia</h1>
 
 <h3 align="center">💻 Estudante de Engenharia de Software | ☁️ Foco em DevOps e Cloud</h3>
 
