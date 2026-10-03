@@ -3,7 +3,7 @@
 <h3 align="center">💻 Estudante de Engenharia de Software | ☁️ Foco em DevOps e Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Azure+%7C+Kubernetes+%7C+Terraform;Docker+%7C+CI%2FCD+%7C+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Azure+%7C+GCP+%7C+Terraform;Docker+%7C+CI%2FCD+%7C+Jenkins;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,13 +11,12 @@
 ### 🔧 Tecnologias & Ferramentas
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -28,30 +27,23 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>☸️ AKS + Datadog Monitoring</h4>
-      <p>Monitoramento de cluster Kubernetes (AKS) com Datadog: métricas, logs e alertas para observabilidade de aplicações em produção.</p>
+      <h4>🧱 Terraform Azure Infrastructure</h4>
+      <p>Infraestrutura como código para provisionamento de recursos na Azure usando Terraform.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧱 Terraform Azure Infrastructure</h4>
-      <p>Infraestrutura como código para provisionamento de recursos na Azure (VMs, redes, AKS) usando Terraform.</p>
+      <h4>🔄 CI/CD com Jenkins</h4>
+      <p>Pipelines automatizados de build, teste e deploy usando Jenkins, integrados a containers Docker e Docker Compose.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔄 CI/CD com GitHub Actions</h4>
-      <p>Pipelines automatizados de build, teste e deploy usando GitHub Actions, integrados a containers Docker.</p>
-    </td>
     <td width="50%" valign="top">
       <h4>🐳 Hello-4CH</h4>
-      <p>Aplicação de exemplo containerizada com Docker, usada para praticar builds, deploys e integração contínua em ambientes cloud.</p>
+      <p>Aplicação containerizada com Docker, usada para praticar builds, deploys e integração contínua em ambientes cloud.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h4>📋 TaskFlow</h4>
-      <p>Sistema de gerenciamento de tarefas, aplicando boas práticas de desenvolvimento e integração com pipelines de CI/CD.</p>
+      <p>Sistema de gerenciamento de tarefas com boas práticas de desenvolvimento e integração com pipelines de CI/CD.</p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
