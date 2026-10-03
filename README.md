@@ -8,6 +8,16 @@
 
 ---
 
+###  Sobre mim
+
+Sou Natália Jorge, estudante de Engenharia de Software no Inatel e estagiária de DevOps na 4Intelligence, onde trabalho com automação de pipelines, scripts em Python, Docker e ambientes em nuvem com Azure e GCP.
+
+Tenho experiência prática em desenvolvimento front-end com React e JavaScript, integração de APIs REST, containerização com Docker e ferramentas como Jenkins, Terraform e Ansible. Gosto de tecnologia que resolve problemas reais — seja automatizando um processo repetitivo ou construindo uma interface que faz sentido para quem usa.
+
+Atualmente me aprofundando em Google Cloud, CI/CD e desenvolvimento fullstack. Sempre estudando, sempre construindo.
+
+---
+
 ### 🔧 Tecnologias & Ferramentas
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
